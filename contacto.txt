@@ -1,0 +1,54 @@
+<!Doctype html>
+<html>
+	<head>
+		<title>
+			Contactos-The Family Barbershop
+		</title>
+		<link rel="shortcut icon" href="../imagenes/maquina.png">
+	</head>
+	<body bgcolor="#29251F" text="#FF9B00">
+		<center>
+			<font size="7" face="Tahoma" >
+				CONTACTOS <br>
+			</font>
+			<hr color="#FCB242" size="3" width="80%">
+			<img src="../imagenes/barberia.jpg"
+			height="400" width="600">
+			<p aling="justify">
+			<font size="6">
+			UBICACION
+			</font>
+			 32.495955, -116.897882
+			<font size="6">
+			CONTACTO
+			</font>
+			<p align="justify">
+			HORARIO DE ATENCION: Luneas
+			CORREO ELECTRONICO: davidconde344@gmail.com
+			NUMERO DE TELEFONO(POR ESTE MEDIO PUEDE AGENDAR SU CITA): 664 252 3589
+			</p> 
+			<font size="6">
+			MISION
+			</font>
+			<p align="justify">
+			Nuestra mision es dar la mejor calidad de servicio a nuestros clientes.
+			</p> 
+			<a href="../index.html">
+				<img src="../imagenes/INICIO.png">
+			</a>
+			<a href="html/nosotros.html">
+				<img src="imagenes/NOSOTROS.png">
+			</a>
+			<img src="../imagenes/CONTACTOS.png">
+			<a href="../html/productos.html">
+			<img src="../imagenes/pys.png">
+			</a>
+			<b>
+			<hr color="#FCB242" size="3" width="80%">
+				<br>&copy;2024. Derechos reservados <br>
+				Desarrollado por: Leon Issac Elvira Floriano: 02114952 Grupo:606 <br>
+				Plantel Nueva Tijuana
+			</b>
+		</center>
+	</body>
+</html>
